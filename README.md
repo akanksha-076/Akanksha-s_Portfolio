@@ -2,7 +2,7 @@
 
 A personal portfolio website built with React and Vite — a dark, red-accented theme showcasing my projects, technical skills, coursework, and certifications.
 
-🔗 **Live Site:** _Add your Netlify link here_
+🔗 **Live Site:** https://akanksha-portfoli.netlify.app/
 
 ---
 
